@@ -1,0 +1,8 @@
+Programowanie
+Basix
+Co znaczy zmienna int?
+a) ciag znakow
+b) jeden znak
+c) liczba calkowita
+d) liczba zmiennoprzecinkowa
+c
